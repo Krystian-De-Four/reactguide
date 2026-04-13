@@ -38,3 +38,13 @@ html {
     padding: 128px 8px;
   }
 }
+
+.props-section{
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.props-row{
+  display: flex;
+  gap: 16px;
+}
