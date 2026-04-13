@@ -28,6 +28,12 @@ html {
   display: flex;
   gap:16px;
 }
+
+.vertical-line{
+  background-color: var(--card-stroke);
+  min-width: 1px;
+}
+
 @media only screen and (max-width: 1000px) {
   .all-sections {
     padding: 128px 64px;
